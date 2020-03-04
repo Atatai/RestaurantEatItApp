@@ -7,29 +7,29 @@
         <item
             android:id="@+id/nav_fastfood"
             android:icon="@drawable/burgerone"
-            android:title="Fast Food" />
+            android:title="New York" />
         <item
             android:id="@+id/nav_seafood"
             android:icon="@drawable/fishlogo"
-            android:title="Sea Food" />
+            android:title="Florida" />
         <item
             android:id="@+id/nav_italian"
             android:icon="@drawable/pastalogo"
-            android:title="Italian Food" />
+            android:title="Atlanta" />
         <item
             android:id="@+id/nav_continental"
             android:icon="@drawable/continentallogo"
-            android:title="Continental Food" />
+            android:title="Kentucky" />
 
         <item
             android:id="@+id/nav_traditional"
             android:icon="@drawable/traditional"
-            android:title="Traditional Food" />
+            android:title="Texas" />
 
         <item
             android:id="@+id/nav_chinese"
             android:icon="@drawable/chineselogo"
-            android:title="Chinese Food" />
+            android:title="Chicago" />
 
     </group>
 
@@ -39,17 +39,17 @@
             <item
                 android:id="@+id/order_details_drawer"
                 android:icon="@drawable/ic_order_details_24dp"
-                android:title="Order Details" />
+                android:title="" />
 
             <item
                 android:id="@+id/submit_order"
                 android:icon="@drawable/ic_event_available_black_24dp"
-                android:title="Submit Order" />
+                android:title="" />
 
             <item
                 android:id="@+id/log_out"
                 android:icon="@drawable/ic_exit_to_app_black_24dp"
-                android:title="Log Out" />
+                android:title="" />
 
         </menu>
     </item>
