@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-RestaurantEatItApp.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-RestaurantEatItApp.iml" group="RestaurantEatItApp" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidStudioProjects-RestaurantEatItApp-app.iml" filepath="$PROJECT_DIR$/app/AndroidStudioProjects-RestaurantEatItApp-app.iml" group="RestaurantEatItApp/app" />
       <module fileurl="file://$PROJECT_DIR$/RestaurantEatItApp.iml" filepath="$PROJECT_DIR$/RestaurantEatItApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/RestaurantEatItApp-app.iml" filepath="$PROJECT_DIR$/app/RestaurantEatItApp-app.iml" group="RestaurantEatItApp/app" />
       <module fileurl="file://$PROJECT_DIR$/StudioProjects-RestaurantEatItApp.iml" filepath="$PROJECT_DIR$/StudioProjects-RestaurantEatItApp.iml" group="RestaurantEatItApp" />

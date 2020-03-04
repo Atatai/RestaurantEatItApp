@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity
        // String save2 = i.getStringExtra("pass_marker");
 
 
-            Toast.makeText(getApplicationContext(),"Hello " + save1+ " , Welcome to Eat It Restaurant",Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(),"Hello " + save1+ " , Welcome to FlightPro App",Toast.LENGTH_SHORT).show();
          //   Toast.makeText(getApplicationContext(),save2,Toast.LENGTH_SHORT).show();
 
 

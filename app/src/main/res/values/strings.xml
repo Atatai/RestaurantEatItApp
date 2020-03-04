@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Eat It</string>
-    <string name="slogan"> Make it great "\n"Now you’re eating! "\n"Makin’ it great again and again "\n"Now You’re Eating! "\n"Gather ‘Round the Good Stuff</string>
+    <string name="slogan"></string>
     <string name="title_activity_main">Menu</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
