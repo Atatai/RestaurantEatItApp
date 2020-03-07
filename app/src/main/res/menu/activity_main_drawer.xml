@@ -3,31 +3,31 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
-    <group android:checkableBehavior="single">
+    <group android:checkableBehavior="single"> //icons unchanged
         <item
-            android:id="@+id/nav_fastfood"
+            android:id="@+id/nav_new_york_city"
             android:icon="@drawable/burgerone"
-            android:title="New York" />
+            android:title="New York City" />
         <item
-            android:id="@+id/nav_seafood"
+            android:id="@+id/nav_miami"
             android:icon="@drawable/fishlogo"
-            android:title="Florida" />
+            android:title="Miami" />
         <item
-            android:id="@+id/nav_italian"
+            android:id="@+id/nav_atlanta"
             android:icon="@drawable/pastalogo"
             android:title="Atlanta" />
         <item
-            android:id="@+id/nav_continental"
+            android:id="@+id/nav_louisville"
             android:icon="@drawable/continentallogo"
-            android:title="Kentucky" />
+            android:title="Louisville" />
 
         <item
-            android:id="@+id/nav_traditional"
+            android:id="@+id/nav_houston"
             android:icon="@drawable/traditional"
-            android:title="Texas" />
+            android:title="Houston" />
 
         <item
-            android:id="@+id/nav_chinese"
+            android:id="@+id/nav_chicago"
             android:icon="@drawable/chineselogo"
             android:title="Chicago" />
 

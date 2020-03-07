@@ -118,53 +118,53 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_fastfood) {
-              FastFoodFragment fragment = new FastFoodFragment();
+        if (id == R.id.nav_new_york_city) {
+              NewYorkCityFragment fragment = new NewYorkCityFragment();
               android.support.v4.app.FragmentTransaction fragmentTransaction =
                     getSupportFragmentManager().beginTransaction();
               fragmentTransaction.replace(R.id.Fragment_container, fragment);
               fragmentTransaction.commit();
 
 
-        }else if (id == R.id.nav_seafood) {
+        }else if (id == R.id.nav_miami) {
 
 
-            SeaFragment fragment = new SeaFragment();
+            MiamiFragment fragment = new MiamiFragment();
            android.support.v4.app.FragmentTransaction fragmentTransaction =
                     getSupportFragmentManager().beginTransaction();
             fragmentTransaction.replace(R.id.Fragment_container, fragment);
             fragmentTransaction.commit();
 
         }
-        else if (id == R.id.nav_italian) {
+        else if (id == R.id.nav_atlanta) {
 
-            ItalianFragment fragment = new ItalianFragment();
+            AtlantaFragment fragment = new AtlantaFragment();
             android.support.v4.app.FragmentTransaction fragmentTransaction =
                     getSupportFragmentManager().beginTransaction();
             fragmentTransaction.replace(R.id.Fragment_container, fragment);
            fragmentTransaction.commit();
 
-        } else if (id == R.id.nav_continental) {
+        } else if (id == R.id.nav_louisville) {
 
-            ContinentalFragment fragment = new ContinentalFragment();
+            LouisvilleFragment fragment = new LouisvilleFragment();
             android.support.v4.app.FragmentTransaction fragmentTransaction =
                     getSupportFragmentManager().beginTransaction();
             fragmentTransaction.replace(R.id.Fragment_container, fragment);
             fragmentTransaction.commit();
 
-        } else if (id == R.id.nav_traditional) {
+        } else if (id == R.id.nav_houston) {
 
 
-            TraditionalFragment fragment = new TraditionalFragment();
+            HoustonFragment fragment = new HoustonFragment();
             android.support.v4.app.FragmentTransaction fragmentTransaction =
                     getSupportFragmentManager().beginTransaction();
            fragmentTransaction.replace(R.id.Fragment_container, fragment);
             fragmentTransaction.commit();
 
-        }else if (id == R.id.nav_chinese) {
+        }else if (id == R.id.nav_chicago) {
 
 
-            ChineseFragment fragment = new ChineseFragment();
+            ChicagoFragment fragment = new ChicagoFragment();
             android.support.v4.app.FragmentTransaction fragmentTransaction =
                     getSupportFragmentManager().beginTransaction();
             fragmentTransaction.replace(R.id.Fragment_container, fragment);
